@@ -1,0 +1,22 @@
+total 80
+drwxr-xr-x 3 abhishek-yadav abhishek-yadav 4096 Sep 24 23:19 abhi
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  126 Sep 26 11:27 alternateArthimatic.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav   56 Sep 24 11:14 anu
+drwxr-xr-x 4 abhishek-yadav abhishek-yadav 4096 Sep 24 23:12 apple
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  249 Sep 26 10:46 arthim.sh.save
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav   49 Sep 25 12:06 book.txt
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  217 Sep 26 14:27 case1.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  278 Sep 26 14:34 case2.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav   61 Sep 25 15:12 colpaint.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  136 Sep 26 14:35 commandLineArguments.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  384 Sep 25 09:17 emp.txt
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav    0 Sep 26 14:45 emp11.txt
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  622 Sep 26 14:04 file.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav   48 Sep 25 09:50 food.txt
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  259 Sep 26 11:08 logical.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav   47 Sep 24 11:16 raju
+-rwxr-xr-x 1 abhishek-yadav abhishek-yadav   20 Sep 25 14:19 script1.sh
+-rwxr-xr-x 1 abhishek-yadav abhishek-yadav   74 Sep 25 14:25 script2.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  397 Sep 26 11:16 string.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  372 Sep 26 11:19 string2.sh
+-rw-r--r-- 1 abhishek-yadav abhishek-yadav  119 Sep 26 11:31 test.sh

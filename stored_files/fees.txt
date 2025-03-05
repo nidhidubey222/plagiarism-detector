@@ -1,0 +1,5 @@
+John BTech 1styear 50000
+Jane MCA 2ndsemester 55000
+Alice BTech 2ndyear 60000
+Bob MCA 1stsemester 53000
+

@@ -1,0 +1,5 @@
+Welcome to example.com
+Visit google.com for more information.
+My email is john.doe@example.com.
+Use regex to find dot
+
