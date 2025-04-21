@@ -1,0 +1,12 @@
+Flask
+scikit-learn
+PyMuPDF
+pytesseract
+Pillow
+python-docx
+aiohttp
+beautifulsoup4
+duckduckgo-search
+pandas
+nltk
+openpyxl
